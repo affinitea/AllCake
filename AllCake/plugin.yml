@@ -1,0 +1,5 @@
+name: AllCake
+version: 1.2
+author: Affinity
+main: me.affinity.allcake.Main
+description: Meant to be used along with the AllCakeTexturePack
